@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">New permission</string>
+    <string name="enter_your_number">enter your number</string>
+    <string name="enter_your_message">enter your message</string>
+    <string name="send">Send</string>
+    <string name="enter_the_otp">Enter the Otp</string>
+    <string name="submit">Submit</string>
+</resources>
