@@ -28,7 +28,7 @@ public class Main2Activity extends AppCompatActivity {
 
         Log.d("test"," "+x);
 
-        Toast.makeText(this," " + x , Toast.LENGTH_LONG ).show();
+
 
         Submit.setOnClickListener(new View.OnClickListener() {
             @Override

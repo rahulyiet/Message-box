@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
 
                       sms.sendTextMessage(phoneNo,null,MessageNumber,null,null);
 
-                      Toast.makeText(MainActivity.this, MessageNumber , Toast.LENGTH_LONG).show();
+
 
                       Intent intent =new Intent(MainActivity.this,Main2Activity.class);
                       intent.putExtra("message",MessageNumber);
